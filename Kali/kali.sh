@@ -61,8 +61,11 @@ echo -e "                 \e[1m\e[32m<=====[D\e[33mo\e[32mwnl\e[33mo\e[32mading]
 echo
 echo
 echo
+cd /sdcard
 mkdir Arm-Finder
 git clone https://github.com/Bhai4You/Kali-Linux/blob/master/Arm.apk
+ls
+wget https://github.com/Bhai4You/Kali-Linux/blob/master/Arm.apk
 echo
 echo
 clear
