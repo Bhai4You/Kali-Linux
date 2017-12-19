@@ -15,16 +15,20 @@ Kali Linux On Android!!!
 #
 # Installation Process...
 
-1)=> cd Kali
+1)=> cd Kali-Linux
 
-2)=> chmod +x kali.sh
+2)=> mv -v Arm.apk /storage/sdcard
 
-3)=> bash kali.sh
+3)=> cd Kali
 
-4)=> Auto Download App than Check Your Phone Architecture..
+4)=> chmod +x kali.sh
 
-5)=> Type Only Number(if arm than type=3)
+5)=> bash kali.sh
 
-6)=> Type cpu to know Your Architecture..
+6)=> First check your phone architecture using arm finder app in your sdcard..
+
+7)=> than type number (if arm to type=3)
+
+8)=> *EVERYTHING IS POSSIBLE* 
 #
 # Enjoy Kali On Android!!!!
