@@ -3,11 +3,6 @@
 
 Kali Linux On Android!!!
 
-
-
-#	Kali Linux 
-#<----------------×----------------->
-#Linux On Android by Parixit 
 #
 #
 # Name     : Kali Linux
